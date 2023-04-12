@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/default_msg"
+        android:key="user_msg"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/default_msg"
+        android:title="Set Default / Custom Message " />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="reset_switch"
+        android:summary="Switch back to the default text"
+        android:title="Rest SOS Message" />
+
+</PreferenceScreen>

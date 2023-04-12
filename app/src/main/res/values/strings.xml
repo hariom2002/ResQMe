@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name"> Chary </string>
+
+    <string name="intro_text"> Save Your DAMN Life! </string>
+
+    <string name="default_msg"> I\'M IN DANGER! </string>
+    <string name="widget_button_text">SEND SOS</string>
+
+    <string name="emg_contacts_text"> Long tap on an emergency contact to delete it. </string>
+    <string name="info_tag">Click this icon above to know how to use the app.</string>
+    <string name="settings_tag">Click this icon to go to the App\'s Settings.</string>
+    <string name="sos_tag">Click this icon below to send SOS message.</string>
+    <string name="Chary_tag">Chary</string>
+    <string name="Chary_tagline">Never Walk Alone..</string>
+
+    <string name="info">
+
+    <b> The aim of this Android SOS application is to let a group of people know that a person is in a dangerous situation so that those people can rescue the person in danger.\n
+        \n ***************************** </b> \n
+       \n So this is how the app works:  \n
+
+\n 1.This android app will inform those people by sending an SMS containing a piece of text, which may be default or custom,
+        along with the user’s current location in the form of a URL link which will open up in Google Map.
+
+\n \n 2.The SOS SMS can be triggered in the following three ways...
+
+\n \n \t\t a)By pressing the POWER BUTTON 4 times continuously.
+\n \n \t\t b)From the App Widget present on the home screen.
+\n \n \t\t c)And from within the app itself.
+        \n \n 3.The SOS app provides the user to add maximum three emergency contacts numbers from 	his/hers contact list.
+        And the app will send SOS SMS to only those contacts. The user can also change the emergency contacts.
+
+
+	\n \n 4.   The app has a default SOS text such as “I AM IN DANGER”, moreover the user can also add his/her own custom text.
+
+
+	\n \n 5.   When the SOS SMS is triggered by pressing the POWER BUTTON, the app will inform the user that SMS has been sent out successfully by providing a
+        haptic feedback (means vibrating the phone for 1000 ms).
+
+         \n \n
+        *****************************
+        \t\t\t\t\t\t\t\t\t\t\t\t
+
+        \n \n
+</string>
+
+
+    <string name="into_land">
+        <b> The aim of this Android SOS application is to let a group of people know that a person
+            is in a dangerous situation so that those people can rescue the person in danger.
+        </b>
+    </string>
+
+    <string name="inst_land">
+        So this is how the app works:\n
+
+\n 1.This android app will inform those people by sending an SMS containing a piece of text, which may be default or custom,
+        along with the user’s current location in the form of a URL link which will open up in Google Map.
+
+\n \n 2.The SOS SMS can be triggered in the following three ways...
+
+\n \n \t\t a)By pressing the POWER BUTTON 4 times continuously.
+\n \n \t\t b)From the App Widget present on the home screen.
+\n \n \t\t c)And from within the app itself.
+        \n \n 3.The SOS app provides the user to add maximum three emergency contacts numbers from 	his/hers contact list.
+        And the app will send SOS SMS to only those contacts. The user can also change the emergency contacts.
+
+
+	\n \n 4.   The app has a default SOS text such as “I AM IN DANGER”, moreover the user can also add his/her own custom text.
+
+
+	\n \n 5.   When the SOS SMS is triggered by pressing the POWER BUTTON, the app will inform the user that SMS has been sent out successfully by providing a
+        haptic feedback (means vibrating the phone for 1000 ms).
+
+         \n \n
+    </string>
+
+
+</resources>
