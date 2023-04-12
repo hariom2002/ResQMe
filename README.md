@@ -1,7 +1,6 @@
-# Chary
+# ResQMe
 
-Chary is a Simple Android SOS application which, when triggered, sends SMS to every contact to inform that the sender is in a dangerous situation. The SMS
-contains a piece of text and the user’s current location in the form of google map link. The contact information needs to be set in the app beforehand.
+This Java-based SOS emergency app allows users to send an SOS message with location to selected contacts in danger. It benefits women and children at risk of violence or abuse. It features a custom message option, GPS integration, and automated notification to emergency contacts. Overall, it mitigates harm in emergencies.
 
 ### Some snapshots of the App
 |  |  |  
